@@ -15,3 +15,8 @@
 ### Functionality of Radio buttons and checkbox 
 
 ![image](https://github.com/user-attachments/assets/ffa4237d-2c90-4409-85bf-a126bc46a8e8)
+
+### Param Query in URL
+
+![image](https://github.com/user-attachments/assets/e6ebedec-e516-4c09-a8e7-d0f4a2f2c6eb)
+
